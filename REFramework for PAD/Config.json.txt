@@ -1,0 +1,1 @@
+{ 'ProjectName': "Power Framework", 'ProjectType': "", 'EnvironemtType': "Dev", 'Systems': { 'UiDemo': { 'Name': "UiDemo", 'Path': "C:\\UiDemo\\UIDemo.exe", 'Credentials': { 'Username': "admin", 'Password': "password" } } }, 'Transactions': "‪C:\\\\UiDemo\\Transactions.xlsx", 'Retry': 3.0, 'ExceptionsScreenshots': "‪C:\\\\UiDemo\\\\Exceptions" }
